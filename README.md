@@ -18,7 +18,7 @@
 
 <p align="center">
   <em>
-    This is ME, Amar Bugarin, a <b>third year</b> student from <a href="https://www.itep.edu.ba/"> <b>ITEP - College of Information Technology, Economics and Entrepreneurship</b>.</a> <br>
+    This is ME, Amar Bugarin I am from   <img src="https://cultofthepartyparrot.com/flags/hd/bosniaandherzegovinaparrot.gif" width="30" height="30"/> , a <b>third year</b> student from <a href="https://www.itep.edu.ba/"> <b>ITEP - College of Information Technology, Economics and Entrepreneurship</b>.</a> <br>
     A budding <b>Full-Stack Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
@@ -102,20 +102,6 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
 <hr>
 
-#### Want to Build Your Own?
-
-Do you like my profile and want to build your own? It's very simple. GitHub recently added a new feature called **Profile Readmes**. For it to work, do the following:
-
-1. Create a *special* GitHub repository with your username as repository name. My username is `Akash-chowrasia` so my profile readme repository has the name `Akash-chowrasia`.
-1. Add a `README.md` to this repository.
-1. Put some cool content about yourself (or anything you want) into `README.md`.
-
-And that's about it. The `README.md` of your profile readme repository will be displayed on your profile page. 
-
------
-Credits: [Akash chowrasia](https://github.com/Akash-chowrasia)
-
-Last Edited on: 22/02/2021
 
 <!--
 **bugenzi/bugenzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
