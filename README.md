@@ -28,7 +28,7 @@
 </p>
 
 <p align="left"> <img src="https://i.giphy.com/media/35KmddtenRJmKhjrvJ/giphy.webp" alt="bugenzi" /> </p>
-<img align="right" width=300px alt="Unicorn" src="https://i.giphy.com/media/35KmddtenRJmKhjrvJ/giphy.webp" />
+
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
