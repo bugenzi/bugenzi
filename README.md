@@ -29,7 +29,7 @@
 
 
 
-<p align="right">
+<p align="center">
 <img src="https://i.giphy.com/media/35KmddtenRJmKhjrvJ/giphy.webp" alt="bugenzi" />
 </p>
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
