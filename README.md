@@ -34,7 +34,7 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
 
-✔ I’m currently Developing **Boktter** Israle palestine data**YoutubeAddict (removing feeds from youtube while browsing)**<br>
+✔ I’m currently Developing **Boktter** **Israle palestine data** **YoutubeAddict** (removing feeds from youtube while browsing)<br>
 ✔ I’m currently learning **Typescript** & **Microservices**<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
 ✔ I regularly write articles on [my blog](https://amarbugarin.com/diary) <br>
@@ -71,7 +71,6 @@
 
 
 
-Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
 
 
