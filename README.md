@@ -42,8 +42,8 @@
 
  
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
-<p align="left">
+<!-- <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
+<p align="left"> -->
 <!--   
   <img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg">
   <img height="50" src="https://github.com/uannabi/-/blob/master/resource/jp.svg"> 
