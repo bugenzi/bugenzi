@@ -1,6 +1,6 @@
 
 
-<hr>
+<!-- <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Amar Bugarin</h1>
 <h3 align="center">Software Engineer </h3>
 <p align="center">
@@ -11,9 +11,9 @@
 
 </p>
 </p>
+ -->
 
-
-
+<!-- 
 <p align="center">
   <em>
 <br>
@@ -23,7 +23,7 @@
   </em> 
   <br>
 </p>
-
+ -->
 
 
 <p align="center">
