@@ -1,30 +1,5 @@
 
 
-<!-- <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Amar Bugarin</h1>
-<h3 align="center">Software Engineer </h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/amar-bugarin-96a6a21a3/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
-<a href="https://twitter.com/Bugenzi98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bugenzi" height="30" width="40" /></a>
- <a href = "mailto: amarbugarin@outlook.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
-  
-
-</p>
-</p>
- -->
-
-<!-- 
-<p align="center">
-  <em>
-<br>
-    I am a professional <b>Full Stack Pancake </b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">
-  </em> 
-  <br>
-</p>
- -->
-
 
 
 <p align="center">
@@ -37,9 +12,9 @@
 
 <p align="left"> <a href="https://twitter.com/bugenzi98" target="blank"><img src="https://img.shields.io/twitter/follow/bugenzi98?logo=twitter&style=for-the-badge" alt="bugenzi98" /></a> </p>
 
-- 🌱 I’m currently learning **Graphql and Kubernetes**
+- 🌱 I’m currently playing with **Astro**
 
-- 💬 Ask me about **React, styled-components**
+- 💬 Ask me about **React, serverless and why rust is fun**
 
 - 📫 How to reach me **amarbugarin@outlook.com**
 
@@ -57,7 +32,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bugenzi&show_icons=true&locale=en&layout=compact" alt="bugenzi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bugenzi&show_icons=true&locale=en" alt="bugenzi" /></p>
 
 
 
