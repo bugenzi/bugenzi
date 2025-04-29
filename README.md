@@ -1,5 +1,4 @@
 <div align="center">
-<img src="https://i.imgur.com/T76nmpU.gif" width="700px" alt="Dark Souls inspired animation">
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamRobDNid20xMDZtOW55cHN3eTk1ZHI0OWM5MWptbHpuZm11NGR3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AQRapWCgC7dThyVEYb/giphy.gif" width="400px" alt="Dark Souls bonfire gif">
 
