@@ -1,90 +1,84 @@
 <div align="center">
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamRobDNid20xMDZtOW55cHN3eTk1ZHI0OWM5MWptbHpuZm11NGR3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AQRapWCgC7dThyVEYb/giphy.gif" width="400px" alt="Dark Souls bonfire gif">
+# Amar Bugarin
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bugenzi&label=Profile%20views&color=0e75b6&style=flat" alt="bugenzi" />
-</p>
+**Frontend-focused full-stack developer building product-heavy web apps.**
 
-# AMAR BUGARIN
+React / Next.js / TypeScript / Tailwind / Supabase / AWS
 
-### *"Bearer of the curse... Seek souls. Larger, more powerful souls. Seek the King, that is the only way."*
-
-<img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-Mastery-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/ThreeJS-Sorcery-000000?style=for-the-badge&logo=three.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Testing-E2E-34A853?style=for-the-badge&logo=cypress&logoColor=white"/>
-<img src="https://img.shields.io/badge/Architecture-SOLID-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
-[<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/amar-bugarin)
-[<img src="https://img.shields.io/badge/Website-Visit-000000?style=for-the-badge&logo=safari&logoColor=white"/>](https://www.amarbugarin.com)
-[<img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/bugenzi98)
+[LinkedIn](https://www.linkedin.com/in/amar-bugarin) ·
+[Website](https://www.amarbugarin.com) ·
+[Email](mailto:amarbugarin@outlook.com)
 
 </div>
 
 ---
 
-<div align="center">
-  
-*"Software Development is like a Souls game — challenging but rewarding. Each error is a boss to overcome, each project a new bonfire."*
+## About
 
-</div>
+I'm a T-shaped developer with deep React and frontend architecture experience, plus enough backend and cloud knowledge to ship full product features end to end.
 
-## 🔥 Bonfire: Developer Journey
+Most of my work sits somewhere between product, UI, and engineering: turning unclear requirements into usable flows, building scalable interfaces, and making sure the final result is not just technically correct, but useful.
 
-I'm a **T-shaped developer** with deep React expertise and broad knowledge across the development stack. My journey has taken me through multiple startups where I've kindled the flames of frontend architecture while wielding complementary backend and cloud capabilities.
+I like working on products where the frontend is not just decoration, but a core part of the experience.
 
-- 🏰 **Currently conquering**: Astro, Three.js, AI integration
-- 🛡️ **Primary weapons**: React, TypeScript, AWS, Serverless
-- 🧙 **Magic spells**: SEO optimization, 3D visualization, UX design
-- 🗡️ **Ask me about**: React architecture, serverless, and why Rust is fun
-- 📯 **Summon me**: amarbugarin@outlook.com
+---
 
+## What I work with
 
-
-## 🧪 Estus Flask: Technical Skills
-
-```
-⚔️ Languages      | JavaScript/TypeScript, Python, Rust (learning)
-🛡️ Frontend       | React, Next.js, Tailwind CSS, Storybook, Three.js
-🧙 Backend        | Node.js, AWS Lambda, PostgreSQL, Supabase
-🔮 Cloud          | AWS (CloudFormation, S3, ECS), Serverless
-⚒️ Testing        | Cypress, Jest, React Testing Library
-🗡️ Tools          | Docker, Git, GitHub Actions, Figma
-🌌 3D             | Three.js, React Three Fiber, GLSL Shaders, WebGL
+```txt
+Frontend      React, Next.js, TypeScript, Tailwind CSS
+Backend       Node.js, Supabase, PostgreSQL, AWS Lambda
+Cloud         AWS, Serverless, CloudFormation, S3, ECS
+Testing       Cypress, Jest, React Testing Library
+Creative      Three.js, React Three Fiber, WebGL
+Tools         Git, GitHub Actions, Docker, Figma
 ```
 
+---
 
-## 📚 Spell Tomes: Languages
+## Current interests
 
-- 🇬🇧 English (Fluent)
-- 🇩🇪 German (Conversational)
-- 🇧🇦 Bosnian (Native)
+- Product discovery and better feature definition
+- Frontend architecture for growing products
+- AI-assisted development without turning everything into slop
+- Three.js and interactive web experiences
+- Serverless systems and pragmatic cloud architecture
 
-## 🧠 Boss Fights: Personal Projects
+---
 
-> "Like a moth drawn to a flame, your journey appears to be a solitary one. All the more reason for me to aid you."
+## Selected focus areas
 
-I'm on a quest to build innovative full-stack projects that challenge my skills. Much like overcoming difficult bosses in Dark Souls, each project teaches patience, strategy, and perseverance.
+### Product engineering
 
-*Coming soon: Project showcase with links and descriptions*
+I enjoy building features from rough idea to shipped product. That usually means understanding the user problem, shaping the flow, building the UI, connecting the backend, and polishing the edge cases.
 
-## 📬 Summon Sign
+### Frontend architecture
 
-<div align="center">
+I care about clean component structure, predictable state, readable code, and UI systems that do not collapse after three new features.
 
-*"If you require assistance on your development journey, or wish to discuss the finer points of software architecture and game design, leave a summon sign..."*
+### Creative web
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/amar-bugarin)
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/bugenzi98)
-[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:amarbugarin@outlook.com)
-[<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>](https://www.amarbugarin.com)
+I like using 3D, motion, and interaction when they actually improve the experience — not just because they look cool.
 
-</div>
+---
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bugenzi)](https://wakatime.com/@bugenzi)
+## Languages
 
-<!--
-**bugenzi/bugenzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+- Bosnian — native
+- English — fluent
+- German — conversational
+
+---
+
+## Contact
+
+Open to talking about frontend architecture, product engineering, startups, gaming, or weird UI ideas.
+
+[LinkedIn](https://www.linkedin.com/in/amar-bugarin) ·
+[Website](https://www.amarbugarin.com) ·
+[Email](mailto:amarbugarin@outlook.com)
+
+---
+
+> Software development is a bit like a Souls game: most progress comes from patience, pattern recognition, and learning from failure.
