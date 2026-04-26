@@ -8,6 +8,7 @@ React / Next.js / TypeScript / Tailwind / Supabase / AWS
 
 [LinkedIn](https://www.linkedin.com/in/amar-bugarin) ·
 [Website](https://www.amarbugarin.com) ·
+[Formbase](https://formbase.amarbugarin.com/) ·
 [Email](mailto:amarbugarin@outlook.com)
 
 </div>
@@ -16,11 +17,9 @@ React / Next.js / TypeScript / Tailwind / Supabase / AWS
 
 ## About
 
-I'm a T-shaped developer with deep React and frontend architecture experience, plus enough backend and cloud knowledge to ship full product features end to end.
+I'm a T-shaped developer with deep React and frontend architecture experience, plus enough backend and cloud knowledge to ship product features end to end.
 
-Most of my work sits somewhere between product, UI, and engineering: turning unclear requirements into usable flows, building scalable interfaces, and making sure the final result is not just technically correct, but useful.
-
-I like working on products where the frontend is not just decoration, but a core part of the experience.
+I like working in the messy middle between product, UI, and engineering: shaping unclear requirements, building usable flows, and making sure the result is not just technically correct, but actually useful.
 
 ---
 
@@ -37,6 +36,22 @@ Tools         Git, GitHub Actions, Docker, Figma
 
 ---
 
+## Projects and writing
+
+### Formbase
+
+An open-source React PDF form editor for building fillable PDF workflows inside React apps. It supports visual field placement, JSON schema export, and real AcroForm PDF generation.
+
+[View Formbase](https://formbase.amarbugarin.com/) · [GitHub](https://github.com/bugenzi/formbase)
+
+### Bonfire Bytes
+
+My personal blog where I write about software development, product thinking, AI-assisted work, cloud, and the stranger parts of building software.
+
+[Read the blog](https://www.amarbugarin.com/)
+
+---
+
 ## Current interests
 
 - Product discovery and better feature definition
@@ -47,36 +62,13 @@ Tools         Git, GitHub Actions, Docker, Figma
 
 ---
 
-## Selected focus areas
-
-### Product engineering
-
-I enjoy building features from rough idea to shipped product. That usually means understanding the user problem, shaping the flow, building the UI, connecting the backend, and polishing the edge cases.
-
-### Frontend architecture
-
-I care about clean component structure, predictable state, readable code, and UI systems that do not collapse after three new features.
-
-### Creative web
-
-I like using 3D, motion, and interaction when they actually improve the experience — not just because they look cool.
-
----
-
-## Languages
-
-- Bosnian — native
-- English — fluent
-- German — conversational
-
----
-
 ## Contact
 
-Open to talking about frontend architecture, product engineering, startups, gaming, or weird UI ideas.
+Open to talking about frontend architecture, product engineering, startups, gaming, writing, or weird UI ideas.
 
 [LinkedIn](https://www.linkedin.com/in/amar-bugarin) ·
 [Website](https://www.amarbugarin.com) ·
+[Formbase](https://formbase.amarbugarin.com/) ·
 [Email](mailto:amarbugarin@outlook.com)
 
 ---
