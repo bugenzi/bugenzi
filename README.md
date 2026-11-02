@@ -1,76 +1,56 @@
-<div align="center">
-
 # Amar Bugarin
 
-**Frontend-focused full-stack developer building product-heavy web apps.**
+Software developer iz Sarajeva. Brodarevo too.
 
-React / Next.js / TypeScript / Tailwind / Supabase / AWS
+Frontend-strong. Full stack when the job needs it. Product-minded.
+English, Bosnian, German.
 
-[LinkedIn](https://www.linkedin.com/in/amar-bugarin) ·
-[Website](https://www.amarbugarin.com) ·
-[Formbase](https://formbase.amarbugarin.com/) ·
-[Email](mailto:amarbugarin@outlook.com)
+GitHub bio still says "Don't know what to write". That one's staying.
 
-</div>
+[amarbugarin.com](https://amarbugarin.com) · [LinkedIn](https://linkedin.com/in/amar-bugarin) · [X](https://x.com/Bugenzi98) · [email](mailto:amarbugarin@outlook.com)
 
----
+## WhatShePaid
 
-## About
+My product. Live pilot.
 
-I'm a T-shaped developer with deep React and frontend architecture experience, plus enough backend and cloud knowledge to ship product features end to end.
+Price intelligence for nail salons in NYC. Gel-X: what people actually paid vs the listed price.
 
-I like working in the messy middle between product, UI, and engineering: shaping unclear requirements, building usable flows, and making sure the result is not just technically correct, but actually useful.
+Next.js on Vercel.
 
----
+**[whatshepaid.com](https://whatshepaid.com)**
 
-## What I work with
+## Work
 
-```txt
-Frontend      React, Next.js, TypeScript, Tailwind CSS
-Backend       Node.js, Supabase, PostgreSQL, AWS Lambda
-Cloud         AWS, Serverless, CloudFormation, S3, ECS
-Testing       Cypress, Jest, React Testing Library
-Creative      Three.js, React Three Fiber, WebGL
-Tools         Git, GitHub Actions, Docker, Figma
+**Right now:** a German tax advisory and accounting platform.
+
+Advisor and client portals. React, TypeScript, TanStack Query, Radix, Firebase functions, Sentry.
+Java 21 / Spring Boot backend.
+NestJS event-driven workflows on Redis streams.
+Shared design system. React, Tailwind, Storybook.
+EN/DE, feature flags, prod debugging, AI-run frontend QA suites.
+
+**Ministry of Programming**, Jan 2022 to now.
+Frontend dev from Jan to Apr 2022, software developer after that.
+Built an AWS serverless AI news tool there. CloudFormation and Next.js.
+
+**StartupPeople**, Dec 2023 to now.
+Next.js SEO work, cut Supabase costs, Figma.
+
+## Stack
+
+```text
+TypeScript, React, Next.js, NestJS, Java, Spring Boot
+Firebase, Supabase, AWS, Docker, Redis, Vercel
+Figma, Linear, Sentry
 ```
 
----
+Claude Code and Cursor most days.
+I build agents.
 
-## Projects and writing
+## School
 
-### Formbase
-
-An open-source React PDF form editor for building fillable PDF workflows inside React apps. It supports visual field placement, JSON schema export, and real AcroForm PDF generation.
-
-[View Formbase](https://formbase.amarbugarin.com/) · [GitHub](https://github.com/bugenzi/formbase)
-
-### Bonfire Bytes
-
-My personal blog where I write about software development, product thinking, AI-assisted work, cloud, and the stranger parts of building software.
-
-[Read the blog](https://www.amarbugarin.com/)
+BSc Computer Science, PIM University Banja Luka, 2019-2023.
 
 ---
 
-## Current interests
-
-- Product discovery and better feature definition
-- Frontend architecture for growing products
-- AI-assisted development without turning everything into slop
-- Three.js and interactive web experiences
-- Serverless systems and pragmatic cloud architecture
-
----
-
-## Contact
-
-Open to talking about frontend architecture, product engineering, startups, gaming, writing, or weird UI ideas.
-
-[LinkedIn](https://www.linkedin.com/in/amar-bugarin) ·
-[Website](https://www.amarbugarin.com) ·
-[Formbase](https://formbase.amarbugarin.com/) ·
-[Email](mailto:amarbugarin@outlook.com)
-
----
-
-> Software development is a bit like a Souls game: most progress comes from patience, pattern recognition, and learning from failure.
+[Formbase](https://formbase.amarbugarin.com/), a React PDF form editor. [GitHub](https://github.com/bugenzi/formbase).
