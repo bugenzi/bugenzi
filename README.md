@@ -19,6 +19,14 @@ Next.js on Vercel.
 
 **[whatshepaid.com](https://whatshepaid.com)**
 
+## Formbase
+
+A React PDF form editor. Open source, built in my free time. It works today. Still early.
+
+Place the fields visually, then export a JSON schema or a real AcroForm PDF.
+
+**[formbase.amarbugarin.com](https://formbase.amarbugarin.com/)** · [GitHub](https://github.com/bugenzi/formbase)
+
 ## Work
 
 **Right now:** a German tax advisory and accounting platform.
@@ -46,11 +54,3 @@ Figma, Linear, Sentry
 
 Claude Code and Cursor most days.
 I build agents.
-
-## School
-
-BSc Computer Science, PIM University Banja Luka, 2019-2023.
-
----
-
-[Formbase](https://formbase.amarbugarin.com/), a React PDF form editor. [GitHub](https://github.com/bugenzi/formbase).
