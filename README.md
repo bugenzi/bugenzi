@@ -9,6 +9,16 @@ GitHub bio still says "Don't know what to write". That one's staying.
 
 [amarbugarin.com](https://amarbugarin.com) · [LinkedIn](https://linkedin.com/in/amar-bugarin) · [X](https://x.com/Bugenzi98) · [email](mailto:amarbugarin@outlook.com)
 
+## Delmat
+
+My agent orchestrator. In progress.
+
+Self-hostable orchestrator for coding agents. Slack and Linear requests in, durable agent jobs out: Temporal workflows, isolated git worktrees, sandboxed MCP tools, approvals and hard cost caps.
+
+Python, FastAPI, Temporal, LiteLLM, MCP.
+
+**[delmat.amarbugarin.com](https://delmat.amarbugarin.com)**
+
 ## WhatShePaid
 
 My product. Live pilot.
